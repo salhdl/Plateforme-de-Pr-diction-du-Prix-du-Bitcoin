@@ -1,0 +1,15 @@
+#Fichier listant les dépendances Python nécessaires.
+flask
+flask-cors
+yfinance
+pandas
+numpy
+sklearn
+tensorflow
+matplotlib
+nbformat
+nbconvert
+seaborn
+notebook
+jupyter
+
